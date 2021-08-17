@@ -1,4 +1,4 @@
-/* eslint-disable no-extraneous-dependencies */
+/* eslint-disable import/no-extraneous-dependencies */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 

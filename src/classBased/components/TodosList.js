@@ -1,4 +1,5 @@
 /* eslint-disable react/prefer-stateless-function */
+/* eslint-disable react/forbid-prop-types */
 import React from 'react';
 import PropTypes from 'prop-types';
 import TodoItem from './TodoItem';
@@ -32,7 +33,5 @@ TodosList.propTypes = {
   setUpdate: PropTypes.func.isRequired,
 };
 
-
 export default TodosList;
-
 /* eslint-enable react/prefer-stateless-function */
