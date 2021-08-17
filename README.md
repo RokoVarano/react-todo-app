@@ -2,7 +2,7 @@
 
 # TODO
 
-This is a website created for the React tutorial
+This is a website created by following the [React Tutorial from Scratch Guide](https://ibaslogic.com/react-tutorial-for-beginners/). It is a TODO list in which elements can be added or deleted. Both classes and functions have been used in components, as well as severall other features like random IDs and routes.
 
 ## Screenshot
 
@@ -28,13 +28,12 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 - clone the Repo: https://github.com/RokoVarano/react-todo-app.git
 ### Install
-- 
 - In the cloned project folder, run 'npm run start'
 ### Usage
 - Click on the button at the top left to diplay the header
 - Click in home to go to the list
 - Click About to see the About page
-- Write a comment in the input box and hit 'Enter' to create a new list item
+- Write a comment in the input box and hit 'submit' to create a new list item
 - Click the Delete button to delete an item
 
 ### Run tests
