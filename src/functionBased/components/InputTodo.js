@@ -16,6 +16,8 @@ const InputTodo = (props) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+
+    console.log('HI');
     if (inputText.title.trim()) {
       props.addTodoProps(inputText.title);
       setInputText({

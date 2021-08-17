@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 - Click on the button at the top left to diplay the header
 - Click in home to go to the list
 - Click About to see the About page
-- Write a comment in the input box and hit submit to create a new list item
+- Write a comment in the input box and hit 'Enter' to create a new list item
 - Click the Delete button to delete an item
 
 ### Run tests
